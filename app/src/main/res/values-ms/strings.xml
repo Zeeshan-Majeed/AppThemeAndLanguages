@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">Rumah</string>
+    <string name="settings">tetapan</string>
+    <string name="languages">Bahasa</string>
+    <string name="themes">Tema</string>
+    <string name="system_default">Lalai Sistem</string>
+    <string name="continue_">teruskan</string>
+    <string name="light">Cahaya</string>
+    <string name="night">Malam</string>
+    <string name="confirm">sahkan</string>
+</resources>

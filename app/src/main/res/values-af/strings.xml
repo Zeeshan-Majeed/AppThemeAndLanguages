@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">Tuis</string>
+    <string name="settings">Instellings</string>
+    <string name="languages">Tale</string>
+    <string name="themes">Temas</string>
+    <string name="system_default">Stelsel verstek</string>
+    <string name="continue_">Gaan voort</string>
+    <string name="light">Lig</string>
+    <string name="night">Nag</string>
+    <string name="confirm">Bevestig</string>
+</resources>

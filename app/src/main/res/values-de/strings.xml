@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">Heim</string>
+    <string name="settings">Einstellungen</string>
+    <string name="languages">Sprachen</string>
+    <string name="themes">Themen</string>
+    <string name="system_default">Systemstandard</string>
+    <string name="continue_">Weitermachen</string>
+    <string name="light">Licht</string>
+    <string name="night">Nacht</string>
+    <string name="confirm">Bestätigen</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">بيت</string>
+    <string name="settings">إعدادات</string>
+    <string name="languages">اللغات</string>
+    <string name="themes">المواضيع</string>
+    <string name="system_default">النظام الافتراضي</string>
+    <string name="continue_">يكمل</string>
+    <string name="light">ضوء</string>
+    <string name="night">ليلة</string>
+    <string name="confirm">يتأكد</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">Lar</string>
+    <string name="settings">Configurações</string>
+    <string name="languages">Idiomas</string>
+    <string name="themes">Temas</string>
+    <string name="system_default">Padrão do sistema</string>
+    <string name="continue_">Continuar</string>
+    <string name="light">Luz</string>
+    <string name="night">Noite</string>
+    <string name="confirm">Confirmar</string>
+</resources>

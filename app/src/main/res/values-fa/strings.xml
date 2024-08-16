@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">صفحه اصلی</string>
+    <string name="settings">تنظیمات</string>
+    <string name="languages">زبان ها</string>
+    <string name="themes">تم ها</string>
+    <string name="system_default">پیش فرض سیستم</string>
+    <string name="continue_">ادامه دهید</string>
+    <string name="light">نور</string>
+    <string name="night">شب</string>
+    <string name="confirm">تایید کنید</string>
+</resources>

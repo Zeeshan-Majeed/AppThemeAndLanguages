@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Theme App</string>
+
+    <string name="home">집</string>
+    <string name="settings">설정</string>
+    <string name="languages">언어</string>
+    <string name="themes">테마</string>
+    <string name="system_default">시스템 기본값</string>
+    <string name="continue_">계속하다</string>
+    <string name="light">빛</string>
+    <string name="night">밤</string>
+    <string name="confirm">확인하다</string>
+</resources>
