@@ -6,7 +6,7 @@
 3.  Preferances to store selected theme and language
 
 ## Other
-Use below lins in gradle file to localize app in production
+Use below lines in gradle file to localize app in production
 
 ```kotlin 
 
