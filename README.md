@@ -6,12 +6,14 @@
 3.  Preferances to store selected theme and language
 
 ## Other
->User below to localize app in production
- ---kotlin
-bundle {
+Use below lins in gradle file to localize app in production
+
+```kotlin 
+
+    bundle {
         language {
             enableSplit = false
         }
     }
-
----
+ 
+```
